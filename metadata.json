@@ -1,0 +1,8 @@
+{
+  "name": "Remix PDDE Santa Cruz do Sul - Gestão e Prestação de Contas",
+  "description": "Sistema de gerenciamento e prestação de contas do PDDE Municipal e FNDE para as escolas e Secretaria Municipal de Educação de Santa Cruz do Sul/RS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
